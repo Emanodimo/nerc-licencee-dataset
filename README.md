@@ -1,4 +1,4 @@
-# 🇳🇬 NERC Power Generation Capacity Analysis (2006–2024)
+# NERC Power Generation Capacity Analysis (2006–2024)
 
 A Power BI–driven analytical review of Nigeria Electricity Regulatory Commission (NERC) generation licence data, focusing on installed capacity trends, operational performance, fuel mix transition, and geographic distribution of power plants across Nigeria.
 
