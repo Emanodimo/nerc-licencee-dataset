@@ -143,29 +143,3 @@ This project addresses these gaps through structured analytics and YoY performan
 
 ---
 
-## 📄 Regulatory Executive Summary (1-Page Brief for NERC)
-
-**Objective:**
-Provide a concise, data-driven overview of Nigeria’s generation capacity performance to support regulatory oversight and policy formulation.
-
-**Period Reviewed:** 2006–2024
-
-**Key Observations:**
-
-* Generation capacity has expanded over time; however, operational realization lags licensed capacity.
-* Fossil fuels, particularly gas, remain the dominant energy source, posing medium-to-high systemic risk.
-* Renewable energy capacity shows positive YoY growth but at a pace insufficient to offset fossil dependency.
-* Geographic concentration of generation assets increases regional vulnerability.
-
-**Regulatory Implications:**
-
-* Improved licence compliance monitoring is required to reduce stranded capacity.
-* Policy instruments should accelerate renewable energy deployment.
-* State-level capacity planning should be strengthened to improve grid resilience.
-
-**Conclusion:**
-This analysis demonstrates the value of structured analytics in supporting NERC’s regulatory mandate. Continued adoption of data-driven performance monitoring will enhance transparency, accountability, and long-term energy security.
-
----
-
-*This repository showcases how regulatory datasets can be transformed into actionable intelligence using Power BI and advanced analytics.*
