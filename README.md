@@ -71,29 +71,41 @@ This project addresses these gaps through structured analytics and YoY performan
 ## 📊 Dashboard Pages Overview
 
 ### 1️⃣ Executive Overview
-
+### 1️⃣ KPIs (top row)
 * Total Installed Capacity (MW)
 * YoY Capacity Change
-* Renewable vs Fossil Fuel Split
-* Key Risk & Performance Indicators
+* Total Installed Capacity (MW)
+* Total Licensees
+* % Operational Licensees
+* % Non-Operational Licensees
+* Renewable Capacity (MW)
+* Fossil Fuel Capacity (MW)
+  
+* Operational Status Breakdown
+* Capacity by License Type
+* Capacity Trend by Fuel Type
+* Top 10 Licensees by Capacity
 
 ### 2️⃣ Capacity & Operational Performance
 
-* Installed vs Operational Capacity
-* YoY Operational Performance of Licensees
-* Identification of non-operational and expired PPAs
+* Licencee Performance
+* Trend of Total Licencees Year on Year
+* Sum of Total Capicty by Year
+* Slicer: Fuel Type | State | Operational Status | Type of Licensee 
 
 ### 3️⃣ Fuel Mix & Energy Transition
 
-* Renewable Capacity Growth (Solar, Hydro, Wind)
-* Fossil Fuel Dependency Trends (Gas, Diesel, Coal, LPFO)
-* YoY Fossil Capacity Change (Risk Assessment)
+* Fuel Mix Trend
+* Renewable vs Fossil Capacity
+* Operational Status by Fuel Type
+* Total Licencees by Fuel Type
 
 ### 4️⃣ Geographic Insights
 
-* State-level installed and operational capacity
-* States experiencing YoY growth or decline
-* Regional concentration risks
+* Capacity by State (MW)
+* Licensees per State
+* State Reliability Score (Advanced KPI)
+* Top 5 State by Total Licencee
 
 ### 5️⃣ Regulatory Insights & Narratives
 
