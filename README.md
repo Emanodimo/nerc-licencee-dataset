@@ -71,7 +71,7 @@ This project addresses these gaps through structured analytics and YoY performan
 ## 📊 Dashboard Pages Overview
 
 ### 1️⃣ Executive Overview
-### 1️⃣ KPIs (top row)
+### KPIs (top row)
 * Total Installed Capacity (MW)
 * YoY Capacity Change
 * Total Installed Capacity (MW)
